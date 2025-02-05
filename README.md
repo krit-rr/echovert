@@ -11,3 +11,4 @@ A walkthrough of designing algorithms which prioritize hate for the sake of enga
 
 ### Data Credits
 - Taja Kuzman (Github Username: TajaKuzman) for hate-speech-prepared-spreadsheet.csv
+- https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset for labeled_data.csv
